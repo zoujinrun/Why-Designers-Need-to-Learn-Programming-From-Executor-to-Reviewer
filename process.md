@@ -6,3 +6,4 @@ In my first submission, my content included an exploration of the relationship b
 
 When I submitted it a second time, I recalled my undergraduate experiences and added some reflections.
 
+In the third revision, I deleted and altered parts where some existing content was repetitive, hoping to keep the article concise.
