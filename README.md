@@ -1,5 +1,7 @@
 #Zou Jinrun 26081057g
 
+Essay
+
 Title: Why Designers Need to Learn Programming — From Executor to Reviewer
 
 As artificial intelligence and digital technologies continue to enter various industries, including design, the relationship between designers and machines is changing. In the past, designers relied more on software to complete tasks such as drafting, modeling, typesetting, and interaction, whereas today, a single line of code or a single language instruction can enable machines to complete a large number of design tasks in a very short time. In light of this change, a question arises: why are we here learning programming? If machines can already replace designers in carrying out tasks, then where exactly will designers be valued in the future?
