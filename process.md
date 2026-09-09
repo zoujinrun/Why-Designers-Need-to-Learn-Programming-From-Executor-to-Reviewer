@@ -7,3 +7,7 @@ In my first submission, my content included an exploration of the relationship b
 When I submitted it a second time, I recalled my undergraduate experiences and added some reflections.
 
 In the third revision, I deleted and altered parts where some existing content was repetitive, hoping to keep the article concise.
+
+I chose the topic of reading and writing because I find it fascinating to compare human design as a species with AI programming code, exploring both their differences and similarities.Moreover, during my undergraduate studies, I did think about this issue. If AI has become so powerful, what can we do to adapt to the trends of this era? Therefore, in my article, I spent a considerable amount of content discussing and determining what position the designer should take in this current design industry. Who is responsible for reading and who is responsible for writing, and which one is more important. I think this is a very good perspective for thinking.
+
+Finally, I also believe that some of my viewpoints in this article are still relatively simple and lack supporting examples. I believe that through further study and accumulation of experience, I will eventually be able to think more deeply and have a better understanding of how the design industry can better utilize programming.
