@@ -1,9 +1,10 @@
-#Zou Jinrun 26081057g
+##Zou Jinrun 26081057g
 
 Essay
 
-#Title: Why Designers Need to Learn Programming — From Executor to Reviewer
+##Title: Why Designers Need to Learn Programming — From Executor to Reviewer
 
+##Introduction
 As artificial intelligence and digital technologies continue to enter various industries, including design, the relationship between designers and machines is changing. In the past, designers relied more on software to complete tasks such as drafting, modeling, typesetting, and interaction, whereas today, a single line of code or a single language instruction can enable machines to complete a large number of design tasks in a very short time. In light of this change, a question arises: why are we here learning programming? If machines can already replace designers in carrying out tasks, then where exactly will designers be valued in the future?
 
 First of all, I believe that learning programming is not so that designers become professional programmers, but so that designers can understand how machines "read" and "execute" their own ideas. Design is essentially a form of expression, while code can be regarded as a precise expressive language. When designers input codes and AI instructions into a machine, the machine cannot truly understand the full intent in the designer’s mind; it can only perform calculations and execution based on the input information. Therefore, whether a designer can accurately describe the problem, break down the requirements, and assess the outcomes produced by the machine ultimately determines the quality of the final design.
@@ -14,6 +15,11 @@ Actually, I also thought about this question during my undergraduate studies, an
 
 In this relationship, I am more willing to understand the machine as the designer’s "writer" or "executor." The designer is responsible for posing questions, establishing rules, and setting the direction, while the machine is responsible for rapid production according to those rules; after the machine produces a large number of results, the designer then reads, selects, modifies, and evaluates them.
 
-The future design industry may no longer be limited to the relationship between people and software, but rather a collaborative relationship in which people work together with AI and machines to complete design. In this process, machines can become efficient executors and “writers,” while designers should become critical readers, reviewers, and planners.
+The future design industry may no longer be limited to the relationship between people and software, but rather a collaborative relationship in which people work together with AI and machines to complete design. Tool and process intelligence, centred on Generative artificial intelligence technology, is increasingly achieved through full-cycle support systems and low-code platforms that redefine human-machine collaboration paradigms while enhancing design and production efficiency (Yu, C., Zheng, P., Peng, T., Xu, X., Vos, S., & Ren, X., 2025).In this process, machines can become efficient executors and “writers,” while designers should become critical readers, reviewers, and planners.
 
 In short, learning programming is not so that designers become machines, but so that designers can better understand machines. Only when designers can read the machine’s language and also review the machine’s output does technology truly become an extension of design, rather than a substitute for the designer.
+
+##References
+【1】易继明. (2017). 人工智能创作物是作品吗?. 法律科学 (西北政法大学学报), 35(5), 137-147.
+【2】颜佳华, & 王张华. (2019). 人工智能与公共管理者角色的重新定位. 北京大学学报 (哲学社会科学版), 56(6), 76-82.
+【3】Yu, C., Zheng, P., Peng, T., Xu, X., Vos, S., & Ren, X. (2025). Design meets AI: challenges and opportunities. Journal of Engineering Design, 36(5-6), 637-641.
