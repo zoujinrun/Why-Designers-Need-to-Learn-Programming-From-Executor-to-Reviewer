@@ -19,7 +19,7 @@ The future design industry may no longer be limited to the relationship between 
 
 In short, learning programming is not so that designers become machines, but so that designers can better understand machines. Only when designers can read the machine’s language and also review the machine’s output does technology truly become an extension of design, rather than a substitute for the designer.
 
-##References
+## References
 【1】易继明. (2017). 人工智能创作物是作品吗?. 法律科学 (西北政法大学学报), 35(5), 137-147.
 【2】颜佳华, & 王张华. (2019). 人工智能与公共管理者角色的重新定位. 北京大学学报 (哲学社会科学版), 56(6), 76-82.
 【3】Yu, C., Zheng, P., Peng, T., Xu, X., Vos, S., & Ren, X. (2025). Design meets AI: challenges and opportunities. Journal of Engineering Design, 36(5-6), 637-641.
